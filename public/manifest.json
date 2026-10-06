@@ -1,0 +1,11 @@
+{
+    "name": "VKU Study Room Booking",
+    "short_name": "StudyRoom",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2563eb",
+    "icons": [
+      { "src": "/icon.png", "sizes": "512x512", "type": "image/png" }
+    ]
+  }
